@@ -1,0 +1,9 @@
+package com.basic.limitsservice.bean;
+
+public class LimitConfiguration {
+	
+	
+	int maximum;
+	int minimum;
+
+}

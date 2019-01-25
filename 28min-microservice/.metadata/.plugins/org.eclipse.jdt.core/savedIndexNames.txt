@@ -1,0 +1,13 @@
+INDEX VERSION 1.130+/root/Desktop/microservice/28min-microservice/.metadata/.plugins/org.eclipse.jdt.core
+63360718.index
+1748070444.index
+3887595875.index
+2587424282.index
+2915685664.index
+3446041455.index
+2444893652.index
+2669646673.index
+3237831087.index
+1976513879.index
+4260790763.index
+154470143.index

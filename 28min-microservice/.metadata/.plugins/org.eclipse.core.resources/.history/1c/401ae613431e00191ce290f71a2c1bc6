@@ -1,0 +1,5 @@
+package com.basic.limitsservice.bean;
+
+public class ConfigureProperties {
+
+}
